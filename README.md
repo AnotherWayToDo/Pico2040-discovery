@@ -8,7 +8,7 @@
 ## Upload a project 
 To upload a program on the Pi Pico and make it the default program that will run on the board at boot, then simply save your program in a **main.py** file directly on the board.
 
-Using VS Code, it seem to have a little bug when you've a workspace with multiple project folder. To avoid any problem, open the folder you want to uplad directly in VS Code.
+Using VS Code, it seem to have a little bug when you've a workspace with multiple project folders. It seem that in this case VS Code upload all the files of the workspace. To avoid any problem, open the folder of the project you want to upload directly in an intense of VS Code and upload this single project.
 
 ## Examples : 
 - **blink** and **blinkExternalLed** show how to declare and use GPIO.
