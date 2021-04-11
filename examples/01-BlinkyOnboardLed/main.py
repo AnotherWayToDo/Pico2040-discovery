@@ -6,6 +6,4 @@ timer = Timer()
 def blink(timer):
     led.toggle()
 
-timer.init(freq=2, mode=Timer.PERIODIC, callback=blink)
-
-#print(timer.period)
+timer.init(freq=0.5, mode=Timer.PERIODIC, callback=blink)
