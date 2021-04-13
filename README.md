@@ -1,8 +1,20 @@
-# Pico2040-discovery
+# RP2040-discovery
 
-## Board informations 
+## Board informations
+
+
+This repo have been used to test the following cards : 
+- Raspberry Pi Pico : 
+   - https://www.raspberrypi.org/documentation/rp2040/getting-started/
+
+   
+
+
+### Raspberry Pi Pico Pin Out
 
 ![](_img/Pico-R3-Pinout.png)
+
+
 
 
 ## Upload a project 
